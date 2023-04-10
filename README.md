@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwath Kannan</h1>
-<h3 align="center">A passionate software enthusiast who loves the idea of open source</h3>
+<h3 align="center">A passionate software enthusiast who loves open source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-2k3&label=Profile%20views&color=0e75b6&style=flat" alt="ash-2k3" /> </p>
 
