@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-2k3&label=Profile%20views&color=0e75b6&style=flat" alt="ash-2k3" /> </p>
 
-- 🌱 I’m currently learning **Angular, Python, Apache Beam Jobs**
+- 🌱 I’m currently looking for Open Source Organizations to contribute to.
 
-- 💬 Ask me about **Kotlin, Android, Javascript**
+- 💬 Ask me about **Kotlin, Android, Javascript, TypeScript**
 
 - 📫 How to reach me **ash.me.cse@gmail.com**
 
-- ⚡ Fun fact **The first instance of open source sharing wasn’t related to software at all!**
+- ⚡ I am always up for techy talks :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
