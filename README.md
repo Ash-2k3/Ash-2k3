@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-2k3&label=Profile%20views&color=0e75b6&style=flat" alt="ash-2k3" /> </p>
 
-- 🌱 I’m currently looking for Open Source Organizations to contribute to.
+- 🌱 I’m currently contributing to Oppia and Open Mainframe Project.
 
 - 💬 Ask me about **Kotlin, Android, Javascript, TypeScript**
 
