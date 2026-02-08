@@ -1,5 +1,5 @@
 # 💫 About Me:
-!!! Obsolete !!! To be updated by Feb 1
+!!! Obsolete !!! To be updated by Feb 15
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwathkannan2k3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ash.me.cse) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20516963/ash2k3)
