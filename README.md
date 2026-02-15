@@ -44,4 +44,4 @@ I enjoy understanding and learning *how systems behave in production* — perfor
 - System design for high-throughput services
 - Performance optimization
 
-> Focused on becoming a strong systems engineer — one reliable system at a time.
+> Trying to become a strong systems engineer — one reliable system at a time.
